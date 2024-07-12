@@ -119,6 +119,6 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, f
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-If you have any questions or feedback, feel free to contact me at [iammeziegit@gmail.com](mailto:iammeziegift@gmail.com).
+If you have any questions or feedback, feel free to contact me at [iammeziegift@gmail.com](mailto:iammeziegift@gmail.com).
 
 ---
