@@ -40,7 +40,7 @@ To compile and run the CGPA Calculator from source code, ensure you have a C++ c
 
 - Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cgpa_calculator.git
+    git clone https://github.com/Mezie-Gift/cgpa_calculator.git
     cd cgpa_calculator
     ```
 
