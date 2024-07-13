@@ -1,3 +1,4 @@
+
 ---
 
 # CGPA Calculator
@@ -25,10 +26,10 @@ The CGPA Calculator is a simple C++ console application that allows students to 
 You have two options to run the CGPA Calculator:
 
 ### Option 1: Downloading the Executable File
-1. Go to the [Releases](https://github.com/yourusername/cgpa_calculator/releases) section of the repository.
-2. Download the executable file for your operating system.
-3. Open a terminal or command prompt in the directory where you downloaded the executable.
-4. Run the executable file:
+- Go to the [Releases](https://github.com/yourusername/cgpa_calculator/releases) section of the repository.
+- Download the executable file for your operating system.
+- Open a terminal or command prompt in the directory where you downloaded the executable.
+- Run the executable file:
     ```bash
     ./cgpa_calculator  # On Linux or macOS
     cgpa_calculator.exe  # On Windows
@@ -37,18 +38,18 @@ You have two options to run the CGPA Calculator:
 ### Option 2: Compiling from Source
 To compile and run the CGPA Calculator from source code, ensure you have a C++ compiler installed on your machine. Follow these steps:
 
-1. Clone the repository:
+- Clone the repository:
     ```bash
     git clone https://github.com/yourusername/cgpa_calculator.git
     cd cgpa_calculator
     ```
 
-2. Compile the program:
+- Compile the program:
     ```bash
     g++ -o cgpa_calculator main.cpp
     ```
 
-3. Run the program:
+- Run the program:
     ```bash
     ./cgpa_calculator
     ```
@@ -57,14 +58,14 @@ To compile and run the CGPA Calculator from source code, ensure you have a C++ c
 Upon running the program, you will be prompted to choose between calculating your GPA for a specific semester or calculating your CGPA for a particular year or the entire course duration. Follow the on-screen instructions to input your grades and credit units.
 
 ### GPA Calculation
-1. Select option `b` to calculate your GPA for a specific semester.
-2. Enter the number of courses you offered in the semester.
-3. For each course, input your grade and the corresponding credit unit.
+- Select option `b` to calculate your GPA for a specific semester.
+- Enter the number of courses you offered in the semester.
+- For each course, input your grade and the corresponding credit unit.
 
 ### CGPA Calculation
-1. Select option `a` to calculate your CGPA for a particular year or the entire course duration.
-2. Enter your name and the number of years your course lasts.
-3. For each year and each semester, input the number of courses, grades, and credit units.
+- Select option `a` to calculate your CGPA for a particular year or the entire course duration.
+- Enter your name and the number of years your course lasts.
+- For each year and each semester, input the number of courses, grades, and credit units.
 
 ## Examples
 ### Example 1: Calculating GPA for a Semester
