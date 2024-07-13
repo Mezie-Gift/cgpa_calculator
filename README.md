@@ -26,7 +26,7 @@ The CGPA Calculator is a simple C++ console application that allows students to 
 You have two options to run the CGPA Calculator:
 
 ### Option 1: Downloading the Executable File
-- Go to the [Releases](https://github.com/yourusername/cgpa_calculator/releases) section of the repository.
+- Go to the [Releases](https://github.com/Mezie-Gift/cgpa_calculator/releases) section of the repository.
 - Download the executable file for your operating system.
 - Open a terminal or command prompt in the directory where you downloaded the executable.
 - Run the executable file:
