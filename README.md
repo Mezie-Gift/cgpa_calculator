@@ -31,8 +31,8 @@ You have two options to run the CGPA Calculator:
 - Open a terminal or command prompt in the directory where you downloaded the executable.
 - Run the executable file:
     ```bash
-    ./cgpa_calculator  # On Linux or macOS
-    cgpa_calculator.exe  # On Windows
+    ./cgpa_calculator_linux  # On Linux or macOS
+    cgpa_calculator_windows.exe  # On Windows
     ```
 
 ### Option 2: Compiling from Source
