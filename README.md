@@ -26,14 +26,39 @@ The CGPA Calculator is a simple C++ console application that allows students to 
 You have two options to run the CGPA Calculator:
 
 ### Option 1: Downloading the Executable File
-- Go to the [Releases](https://github.com/Mezie-Gift/cgpa_calculator/releases) section of the repository.
-- Download the executable file for your operating system.
-- Open a terminal or command prompt in the directory where you downloaded the executable.
-- Run the executable file:
-    ```bash
-    ./cgpa_calculator_linux  # On Linux or macOS
-    cgpa_calculator_windows.exe  # On Windows
-    ```
+You can download the precompiled executable from the [Releases](https://github.com/yourusername/cgpa_calculator/releases) section.
+
+1. **Navigate to the Releases section:**
+   - Go to the [Releases](https://github.com/yourusername/cgpa_calculator/releases) section of the repository.
+
+2. **Download the appropriate executable for your OS:**
+   - For Windows: `cgpa_calculator_windows.exe`
+   - For macOS/Linux: `cgpa_calculator_linux`
+
+3. **Run the executable:**
+   - On **Windows**, double-click the `.exe` file or run it from the command prompt:
+     ```sh
+     cgpa_calculator_windows.exe
+     ```
+   - On **macOS/Linux**, open a terminal, navigate to the download location, and set execute permissions:
+     ```sh
+     cd ~/Downloads
+     chmod +x cgpa_calculator
+     ./cgpa_calculator
+     ```
+
+#### Example Commands for macOS/Linux
+
+```sh
+# Open Terminal and navigate to the Downloads folder
+cd ~/Downloads
+
+# Add execute permissions to the downloaded file
+chmod +x cgpa_calculator
+
+# Run the executable
+./cgpa_calculator
+```
 
 ### Option 2: Compiling from Source
 To compile and run the CGPA Calculator from source code, ensure you have a C++ compiler installed on your machine. Follow these steps:
